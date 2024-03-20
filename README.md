@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# nama : Mochamad Aditya Bagus
 
-## Getting Started
+Praktikum 1
+1. ![image](image/1.png)
+2. ![image](image/2.png)
+Todo: Buatlah halaman /profile yang menampilkan isi biodata anda dengan menggunakan routing di NextJS.
+3. ![image](image/3.png)
 
-First, run the development server:
+praktikum 2
+1. [image](image/2.1.png)
+2. [image](image/2.2.png)
+3. [image](image/2.3.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Kinerja routing yang bersarang bisa menjadi lebih mahal secara komputasi dibandingkan dengan routing yang lebih sederhana. Ini karena aplikasi harus melakukan pencarian melalui beberapa tingkat routing untuk menemukan rute yang tepat. Hal ini bisa memiliki dampak negatif pada kinerja aplikasi, terutama pada aplikasi yang skala besar dengan lalu lintas yang tinggi.Meskipun ada kekurangan ini, pendekatan routing yang bersarang masih sering digunakan dalam pengembangan aplikasi web, terutama ketika aplikasi menjadi semakin kompleks dan memerlukan organisasi yang lebih terstruktur dari routing. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+praktikum 3
+1. [image](image/3.1.png)
+2. [image](image/3.2.png)
+Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+3. [image](image/3.3.png)
+Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+4. [image](image/3.4.png)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+praktikum 4
+1. [image](image/4.1.png)
